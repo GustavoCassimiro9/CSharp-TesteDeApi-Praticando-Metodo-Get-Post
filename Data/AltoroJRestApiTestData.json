@@ -1,0 +1,37 @@
+{
+  "AltoroJRestApi-baseUrl": "https://demo.testfire.net/api/",
+  "Token": "YW5OdGFYUm86WkdWdGJ6RXlNelE9Oj87PyM/Pw==",
+  "AccountId": "800002",
+  "login": {
+    "username": "jsmith",
+    "password": "demo1234"
+  },
+  "AccountPost": {
+    "startDate": "2012-03-12",
+    "endDate": "2012-03-17"
+  },
+  "Transfer": {
+    "toAccount": "800002",
+    "fromAccount": "800003",
+    "transferAmount": "200"
+  },
+  "FeedbackSubmit": {
+    "name": "J Smith",
+    "email": "jsmtih@altoromutual.com",
+    "subject": "Amazing web design",
+    "message": "I like the new look of your applicaiton"
+  },
+  "AdminAddUser": {
+    "firstname": "Bilbo",
+    "lastname": "Baggins",
+    "username": "bilbob",
+    "password1": "S3l3ctS0methingStr0ng5AsP@ssword",
+    "password2": "S3l3ctS0methingStr0ng5AsP@ssword"
+  },
+  "AdminChangePassword": {
+    "username": "jdoe",
+    "password1": "Th1s!sz3nu3Passv0rd",
+    "password2": "Th1s!sz3nu3Passv0rd"
+  }
+
+  }
